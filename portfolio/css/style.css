@@ -721,7 +721,7 @@ h3.my-profession
     height: 50px;
     padding: 0 50px;
 }
-@media(max-width:1199px)
+@media(max-width:900px)
 {
     .aside
     {
@@ -737,7 +737,7 @@ h3.my-profession
         margin-left: 0;
     }
 }
-@media(max-width:991px)
+@media(max-width:720px)
 {
     .contact .contact-info-item,
     .portfolio .portfolio-item,
@@ -757,7 +757,7 @@ h3.my-profession
         display: none;
     }
 }
-@media(max-width:767px)
+@media(max-width:480px)
 {
     .contact .contact-form .col-6,
     .contact .contact-info-item,
