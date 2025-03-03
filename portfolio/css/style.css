@@ -721,7 +721,7 @@ h3.my-profession
     height: 50px;
     padding: 0 50px;
 }
-@media (max-width:900px)
+@media (max-width:1000px)
 {
     .aside
     {
@@ -737,7 +737,7 @@ h3.my-profession
         margin-left: 0;
     }
 }
-@media (max-width:700px)
+@media (max-width:900px)
 {
     .aside ,
     .contact .contact-info-item,
@@ -758,7 +758,7 @@ h3.my-profession
         display: none;
     }
 }
-@media(max-width:476px)
+@media(max-width:737px)
 {
     .aside ,
     .contact .contact-form .col-6,
@@ -767,7 +767,7 @@ h3.my-profession
     .service .service-item,
     .about .about-content .education,
     .about .about-content .skills,
-    .about .about-content .personal-info
+    .about .about-content .personal-info .padd-15
     {
         flex: 0 0 100%;
         max-width: 100%;
