@@ -337,7 +337,7 @@ h3.my-profession
 {
     margin: auto;
     border-radius: 5px;
-    height: 400px;
+    height: 300px;
 }
 /*About*/
 .about .about-content
@@ -721,7 +721,7 @@ h3.my-profession
     height: 50px;
     padding: 0 50px;
 }
-@media(max-width:900px)
+@media (max-width:900px)
 {
     .aside
     {
@@ -737,7 +737,7 @@ h3.my-profession
         margin-left: 0;
     }
 }
-@media(max-width:720px)
+@media (max-width:700px)
 {
     .contact .contact-info-item,
     .portfolio .portfolio-item,
@@ -747,17 +747,17 @@ h3.my-profession
         max-width: 50%;
     }
 
-    .home .home-info
+    .home .home-info 
     {
         flex: 0 0 100%;
         max-width: 100%;
     }
-    .home .home-img
+    .home .home-img 
     {
         display: none;
     }
 }
-@media(max-width:480px)
+@media(max-width:476px)
 {
     .contact .contact-form .col-6,
     .contact .contact-info-item,
